@@ -52,6 +52,12 @@ header {
 
 }
 
+.slide.piece_2{
+	background: url(../img/bbc_world.jpg) no-repeat center center fixed;
+	background-size: cover;
+
+}
+
 .slide span {
 	font-size:86px;
 	width:86px;
