@@ -47,7 +47,7 @@ header {
 }
 
 .slide.piece_1 {
-	background: url(../img/bbc_home.jpg) no-repeat center center fixed;
+	background: url(../img/bbc_home.jpg) no-repeat center fixed;
 	background-size: cover;
 
 }
@@ -62,6 +62,10 @@ header {
 	background: url(../img/bbc_detail.jpg) no-repeat center center fixed;
 	background-size: cover;
 
+}
+
+.slide > img {
+	width: 100%;
 }
 
 .slide span {
